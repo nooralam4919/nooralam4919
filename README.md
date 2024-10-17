@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React.js, Backend Technologies,**
 
-- 📫 Feel free to reach out with questions about Java, Python, and other Backend Technologies. **nooralam.webd@gmail.com**
+- 📫 Free to reach out with questions about Java, Python, and other Backend Technologies. **nooralam.webd@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TqPE8mYYYGNxlQBf6lvtCsLmc3zeYEwE/view?usp=sharing](https://drive.google.com/file/d/1TqPE8mYYYGNxlQBf6lvtCsLmc3zeYEwE/view?usp=sharing)
 
