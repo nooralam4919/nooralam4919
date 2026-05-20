@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer who loves building full-stack products. Ex-Amazon | Published AI researcher | JavaScript, C++, React, Node.js, PostgreSQL, AWS | 500+ DSA solved. Always learning, always shipping..
+I'm a software engineer who loves building full-stack products. Ex-Amazon | Published AI researcher | JavaScript, C++, React, Node.js, PostgreSQL, AWS | 500+ DSA solved. Always learning, always shipping.
 
 
 ## 🌐 Socials:
